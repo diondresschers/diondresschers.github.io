@@ -3,6 +3,7 @@
 * Voor: Iedereen
 * Door: Amsterdam UMC, & Dion Dresschers
 * Inspiratie: [Happenings vs. happiness and how to separate the two](https://www.linkedin.com/learning/the-five-thieves-of-happiness-getabstract-summary/happenings-vs-happiness-and-how-to-separate-the-two)
+* Licentie: [Creative Commons: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 * Versie: 2020-08-14 15:12:36
 
 # Introductie
