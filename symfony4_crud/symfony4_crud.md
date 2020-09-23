@@ -868,4 +868,11 @@ class DefaultController extends AbstractController
 	}
 	```
 
+# User authentication
+
+## User authentication - Make identity
+
+1. Maak een entity aan voor de database:
+
+	`php bin/console make:entity`
 

@@ -1,5 +1,4 @@
 * Titel: Geluk & Plezier
-* Aanmaakdatum: 2020-08-14
 * Voor: Iedereen
 * Door: Amsterdam UMC, & Dion Dresschers
 * Inspiratie: [Happenings vs. happiness and how to separate the two](https://www.linkedin.com/learning/the-five-thieves-of-happiness-getabstract-summary/happenings-vs-happiness-and-how-to-separate-the-two)
