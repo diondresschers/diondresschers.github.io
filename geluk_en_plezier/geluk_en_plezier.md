@@ -1,10 +1,9 @@
 * Titel: Geluk & Plezier
-* Aanmaakdatum: 2020-08-14
 * Voor: Iedereen
 * Door: Amsterdam UMC, & Dion Dresschers
 * Inspiratie: [Happenings vs. happiness and how to separate the two](https://www.linkedin.com/learning/the-five-thieves-of-happiness-getabstract-summary/happenings-vs-happiness-and-how-to-separate-the-two)
 * Licentie: [Creative Commons: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-* Versie: 2020-08-14 15:12:36
+* Versie: 2020-08-18 09:51
 
 # Introductie
 
@@ -18,7 +17,9 @@ Om te zorgen dat je gelukkig ben, probeer geen connectie te zoeken tussen 'gebeu
 1. Consumptie
 1. Gemak
 
-# 1. Controle
+# Valkuilen
+
+## 1. Controle
 
 Boedisme: "Acceptatie is het geheim tot gerusttoestant".
 
@@ -31,7 +32,7 @@ Probeer niet het verleden en de toekomst te controlleren. Spijt hebben van zaken
 Bonjour (negatieve of afleidende) gedachtes weg, meditatie kan daarbij helpen.
 
 
-# 2. Hoogmoedingheid
+## 2. Hoogmoedingheid
 
 Hoogmoedigheid, zorgt ervoor dat je je geen onderdeel voelt van iets dat groter dan jezelf bent.
 
@@ -41,7 +42,7 @@ Voorkom hoogmoed door: geven en zijn. Voorkom het door anderen te helpen en de c
 
 Goed doen is een betere bron voor geluk dan zelfzuchtige gedrag.
 
-# 3. Begerigheid
+## 3. Begerigheid
 
 Er is niks mis mee om dingen te willen die je nog niet hebt, maar begerigheid is dat je jeloers bent op het bezit van anderen. Dit brengt onrust omdat je jezelf gaat vergelijken met anderen. In plaats dat je blij bent voor hun, ben je teleurgesteld, bitter en jarloers.
 
@@ -49,7 +50,7 @@ Personen die dankbaar zijn voor hetgeen dat ze hebben, zijn gelukkiger, gezonder
 
 Als je merkt dat je jezelf vergelijkt met anderen, stop daar dan mee. Wees dankbaar met wie je bent en wat je hebt.
 
-# 4. Consumptie
+## 4. Consumptie
 
 Consumptie geeft aan dat je alleen gelukkig bent als je 'X' hebt. Dit kan je verder trekken door te stellen dat je alleen gelukkig ben als je 'X' bereikt hebt, afgerond hebt, of gewonnen hebt.
 
@@ -61,7 +62,7 @@ Ook kan je door geloven dat je pas gelukkig bent als anderen je waarderen. Mooi 
 
 Het kan plezierig zijn om prettige relaties te hebben, maar als je relaties minder zijn is geen reden om niet gelukkig te zijn. 
 
-# Gemak
+## 5. Gemak
 
 Routinematig en efficienter zaken kunnen doen leert je wat gemak is. Echter weet je ook dat verandering je brein stimuleert. Veel mensen houden vast aan vastgeroestte gedachten en gedragingen die hun ooit geholpen hebben om om te gaan met emotionele en lichamelijke uitdagingen.
 
