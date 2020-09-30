@@ -1,5 +1,5 @@
 * Titel: Samenvatting TinkerCad
-* Status: Concept* Locatie: [GitHub - Samenvattingen - Rank Math SEO](https://github.com/diondresschers/samenvattingen/tree/master/rank_match_seo/rank_math_eo.md)
+* Status: Concept* Locatie: [GitHub - Samenvattingen - Rank Math SEO](https://github.com/diondresschers/samenvattingen/tree/master/rank_match_seo/rank_math_seo.md)
 * Inspiratie: [Complete Rank Math Tutorial | Better Than Yoast SEO 💥-  Ferdy Korpershoek](https://www.youtube.com/watch?v=TzDxO9FCstY))
 * Datum: 2020-09-30
 * Licentie: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
