@@ -7,6 +7,6 @@
 * Revisie: Jaarlijks
 * Auteur: Dion Dresschers
 * Inspiratie:
-* Bestandslocatie: [github - diondresschers - samenvattingen](https://github.com/diondresschers/samenvattingen/blob/master/text.md)
+* Bestandslocatie: [github - diondresschers - samenvattingen](https://github.com/diondresschers/samenvattingen/blob/master/template.md)
 * Versie: 
 
