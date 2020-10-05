@@ -126,7 +126,7 @@ Activeer die virtuele omgeving:
     Note that only Django core commands are listed as settings are not properly configured (error: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings.).
     ```
 
-1. Maak een project aan met de naam 'project_opendib2':
+1. Maak een 'project' aan met de naam 'project_opendib2':
 
     * `django-admin startproject project_opendib2`
 
@@ -403,6 +403,106 @@ Activeer die virtuele omgeving:
     ```
 
 1. Open nu je favoriete browser de URL [http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+1. Je ziet ook dat je in die `/admin` URL achter de URL kan zetten om in het admin gedeelte te komen via [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
+
+1. Je moet nu een nieuwe terminal gebruiken op verder te kunnen werken in de terminal.
+
+1. Wil je de testserver stoppen gebruik dan deze toetscombinatie:
+
+    * `<CTRL> + <C>`
+
+---
+
+# TODO_DD vanaf hier gaat het fout. Maak de App aan in de folder waar ook 'manage.py' zit.
+
+## Django - App, maak een losse 'app' aan in je project
+
+Je hebt reeds een 'project' gemaakt. In dat project kan je meerdere losse 'apps' maken. Dit is een goede methode om de verschillende onderdelen in je 'project' op te splitsen. Je kan zelfs die losse 'app' in andere projecten gaan gebruiken.
+
+1. Maak een nieuwe app aan genaam 'blog':
+
+    * `../manage.py startapp blog`
+
+    ```
+    project_opendib2 $ tree
+    .
+    ├── asgi.py
+    ├── blog
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── __init__.py
+    │   ├── migrations
+    │   │   └── __init__.py
+    │   ├── models.py
+    │   ├── tests.py
+    │   └── views.py
+    ├── __init__.py
+    ├── __pycache__
+    │   ├── __init__.cpython-38.pyc
+    │   ├── settings.cpython-38.pyc
+    │   ├── urls.cpython-38.pyc
+    │   └── wsgi.cpython-38.pyc
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+    3 directories, 16 files
+    ```
+
+## Django - View
+
+1. Bekijk de `views.py` file:
+
+    * `cat blog/views.py`
+
+    ```     
+    from django.shortcuts import render
+
+    # Create your views here.
+    ```
+
+1. We gaan die file nu aanpassen zodat een HTTP Response terug gegeven kan worden. Daarvoor moet je wel eerst de `HttpResponse` importeren in de file.
+
+Dan maak je een functie aan (bijvoorbeeld genaamd `home`) en daarin `return` je een `HttpResponse` in HTML. Zorg dat je file er nu zo uit ziet:
+
+    ```
+    from django.shortcuts import render # deze stond er al
+    from django.http import HttpResponse # deze hebben we zelf toegevoegd
+
+    # Create your views here.
+
+    def home(request): # de functie hebben we `home` genoemd
+        return HttpResponse('<h1>Blog Thuisbasis</h1>') 
+        
+    # Er wordt HTML geretourneerd)
+    ```
+
+1. Dan moet je de URL nog mappen naar de functie die je net gemaakt hebt. Maak eerst de file `urls.py` aan in be `blog` directory. Let op dat er al een `urls.py` bestaat in het 'project' (dus niet in de 'app').
+
+    * `touch blog/urls.py`
+
+1. Deze `blog/urls.py` heeft elementen die lijken op die van de 'project' `urls.py` in de bovenliggende directory. Zorg dat dit het resultaat is:
+
+    * `cat blog/ulrs.py`
+
+    ```
+    from django.urls import path
+    from . import views # van de huidige directory importeer de `views.py`-file
+
+    urlpatterns = [
+        path(''), views.home, name='blog-home'),
+    ]
+
+    # de `views` refereert naar de `views.py`-file. 
+    # de `home` is de functie `home` die we in `views.py` aangemaakt hebben
+    # de `path` is leeg, dus als er geen /url achter komt gebruik deze view
+    # de `name` is handig om naar te referen
+    ```
+
+
+
+
 
 
 
