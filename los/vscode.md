@@ -22,7 +22,7 @@ On the left is the Activity Bar
 
 <i class="fa fa-th-large"></i> eXtensions (CTRL + SHIFT + X)
 
-<i class="fa fa-cog"></i> Manage
+< class="fa fa-cog"></i> Manage
 
 At the bottom bar, you see on the left:
 
@@ -95,3 +95,23 @@ Code runner will show a <i class="fa fa-play"></i> icon
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+
+### Extensions - Edit csv
+
+Met `Edit csv` kan je csv bestanden bewerken, soreten en opslaan.
+
+`janisdd.vscode-edit-csv`
+
+## Extension - VIM
+
+Met deze extensie kan je VIM commando's gebruiken in Visual Studio Code
+
+`vscodevim.vim`
+
+## Extension - Insert Date String
+
+Met de extensie 'Insert Date String' kan je via de toetenscombinatie [CTRL]+[Shift]+[i], een datum en tijd in het document zetten met als voorbeeld `2020-10-05 10:17:42`.
+
+`jsynowiec.vscode-insertdatestring`
+
+
