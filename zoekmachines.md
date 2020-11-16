@@ -28,7 +28,7 @@ Bij het gebruiken van Ecosia, wordt er dus minder op privcacy gefocust, maar zij
 
 Geld verdienen deze alternatieven op het moment dat iemand op een gesponsorde link klikt. 
 
-Van bomen planten en privacywaarborging worden wij van uOnline natuurlijk vrolijk van aangezien dit goed aansluit bij onze visie die luidt "Samen creeren we online meerwaarde voor ondernemeningen en initiatieven die zorgen voor een betere toekomst en een positieve bijdrage leveren aan onze maatschappij."
+Van bomen planten en privacywaarborging worden wij natuurlijk vrolijk van aangezien dit goed aansluit bij onze visie.
 
 # Conclusie
 
